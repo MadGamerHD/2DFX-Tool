@@ -1,0 +1,97 @@
+NumEntries       8
+######################### 1 #########################
+2dfxType         ROADSIGN
+Position         1637.679321 -2063.918701 28.069563
+Size             5.000000 2.500000
+Rotation         48.999981 -90.000008 -90.000015
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            Bluffs_^_______
+Text2            Downtown_^_____
+Text3            Mulholland^____
+Text4            Vinewood_^_____
+######################### 2 #########################
+2dfxType         ROADSIGN
+Position         1634.104492 -2057.239258 28.069563
+Size             5.000000 2.500000
+Rotation         -48.999966 90.000000 90.000000
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            Ocean_Docks_^__
+Text2            Pl._D_Seville^_
+Text3            East_Beach^____
+Text4            _______________
+######################### 3 #########################
+2dfxType         ROADSIGN
+Position         1629.162231 -2053.049072 28.069563
+Size             5.000000 2.500000
+Rotation         -48.999966 90.000000 90.000000
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            }_Airport_^____
+Text2            Marina_^_______
+Text3            Santa_Maria^___
+Text4            Verona_Beach_^_
+######################### 4 #########################
+2dfxType         ROADSIGN
+Position         1642.489624 -2068.100342 28.069563
+Size             5.000000 2.500000
+Rotation         48.999981 -90.000008 -90.000015
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            Commerce__^____
+Text2            Idlewood_^_____
+Text3            Glen_park_^____
+Text4            Little_Mexico_^
+######################### 5 #########################
+2dfxType         ROADSIGN
+Position         1639.912476 -1906.314697 31.880119
+Size             5.000000 2.500000
+Rotation         -76.000000 -89.999962 -90.000038
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            Ocean_Docks_^__
+Text2            Airport_^______
+Text3            East_Beach^____
+Text4            _______________
+######################### 6 #########################
+2dfxType         ROADSIGN
+Position         1633.645264 -1907.959839 31.880119
+Size             5.000000 2.500000
+Rotation         -76.000000 -89.999962 -90.000038
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            }_Airport_^____
+Text2            Marina^________
+Text3            Santa_Maria^___
+Text4            Verona_Beach_^_
+######################### 7 #########################
+2dfxType         ROADSIGN
+Position         1653.618774 -1905.675659 31.880119
+Size             5.000000 2.500000
+Rotation         76.000031 90.000038 90.000038
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            Commerce__^____
+Text2            Idlewood_^_____
+Text3            Glen_park^_____
+Text4            Little_Mexico_^
+######################### 8 #########################
+2dfxType         ROADSIGN
+Position         1647.434326 -1907.217529 31.880119
+Size             5.000000 2.500000
+Rotation         76.000031 90.000038 90.000038
+NumLines         4
+SymbolsInLine    16
+Color            WHITE
+Text1            Bluffs_^_______
+Text2            Downtown_^_____
+Text3            Mulholland_^___
+Text4            Vinewood^______

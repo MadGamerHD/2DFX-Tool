@@ -1,0 +1,145 @@
+NumEntries       8
+######################### 1 #########################
+2dfxType         LIGHT
+Position         8.960693 1.466797 0.152697
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 2 #########################
+2dfxType         LIGHT
+Position         8.080811 1.466797 0.152697
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 3 #########################
+2dfxType         LIGHT
+Position         8.080811 2.060303 1.666006
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 4 #########################
+2dfxType         LIGHT
+Position         8.960693 2.060303 1.666006
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 5 #########################
+2dfxType         LIGHT
+Position         8.080811 -0.776001 -0.584139
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 6 #########################
+2dfxType         LIGHT
+Position         8.960693 -0.776001 -0.584139
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 7 #########################
+2dfxType         LIGHT
+Position         8.080811 -1.780273 -3.027224
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0
+######################### 8 #########################
+2dfxType         LIGHT
+Position         8.960693 -1.780273 -3.027224
+Color            15 230 0 200
+CoronaFarClip    100.000000
+PointlightRange  18.000000
+CoronaSize       1.000000
+ShadowSize       8.000000
+CoronaShowMode   LIGHTS_ANIM_SPEED_4X
+CoronaReflection 0
+CoronaFlareType  0
+ShadowColorMP    40
+ShadowZDistance  0
+CoronaTexName    coronastar
+ShadowTexName    shad_exp
+Flags1           AT_NIGHT
+Flags2           -
+ViewVector       0 156 0

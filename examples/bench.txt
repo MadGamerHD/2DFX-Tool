@@ -1,0 +1,19 @@
+NumEntries       2
+######################### 1 #########################
+2dfxType         PED_ATTRACTOR
+Position         -0.572941 0.661896 0.030715
+Type             PED_SEAT_ATTRACTOR
+Rotation         -0.993852 0.006778 -0.110507  -0.993852 0.006778 -0.110507  0.995570 -0.009073 0.093582
+ExternalScript   -
+ExistingProb     75
+Unknown1         0
+Unknown2         0
+######################### 2 #########################
+2dfxType         PED_ATTRACTOR
+Position         -0.572941 -0.401123 0.030715
+Type             PED_SEAT_ATTRACTOR
+Rotation         -0.993852 0.006778 -0.110507  -0.993852 0.006778 -0.110507  0.995570 -0.009073 0.093582
+ExternalScript   -
+ExistingProb     75
+Unknown1         0
+Unknown2         0
